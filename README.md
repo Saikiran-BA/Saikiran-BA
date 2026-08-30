@@ -42,7 +42,7 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
 
         ### 🧪 Testing & QA
         ![UAT Testing](https://img.shields.io/badge/UAT_Testing-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white)
-        ![TestCafe Automation](https://img.shields.io/badge/TestCafe-15AAD7?style=for-the-badge&logo=testcafe&logoColor=white)
+        ![Selenium & Playwright Automation](https://img.shields.io/badge/Selenium&Playwright-15AAD7?style=for-the-badge&logo=testcafe&logoColor=white)
 
         ### 🔧 Developer Tools
         ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,11 +64,6 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
 
         ---
 
-        ## 🏆 GitHub Trophies
-
-        ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saikiran-BA&theme=onedark&row=1&column=6&no-frame=true)
-
-        ---
 
         ## 📫 Let's Connect!
 
