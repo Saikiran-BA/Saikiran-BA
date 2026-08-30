@@ -24,12 +24,12 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
         ![BRD/FRD](https://img.shields.io/badge/BRD%2FFRD-95E1D3?style=for-the-badge&logo=📄&logoColor=white)
         ![User Stories](https://img.shields.io/badge/User_Stories-F7B731?style=for-the-badge&logo=bookmark&logoColor=white)
         ![Process Mapping](https://img.shields.io/badge/Process_Mapping-6C5CE7?style=for-the-badge&logo=sitemap&logoColor=white)
+        ![Traceability Matrix](https://img.shields.io/badge/Traceability_Matrix-A29BFE?style=for-the-badge&logo=link&logoColor=white)
 
         ### 🛠️ Agile & Project Management
         ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-003366?style=for-the-badge&logo=agile&logoColor=white)
         ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
         ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-        ![Traceability Matrix](https://img.shields.io/badge/Traceability_Matrix-8E44AD?style=for-the-badge&logo=link&logoColor=white)
 
         ### 💾 Database & Data Analysis
         ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,37 +56,28 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
 
         ## 📊 GitHub Statistics
 
-        <div align="center">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saikiran-BA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Saikiran-BA&theme=tokyonight" alt="GitHub Streak" />
-        </div>div>
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikiran-BA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-        <div align="center">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-BA&layout=compact&theme=tokyonight" alt="Top Languages" />
-        </div>div>
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saikiran-BA&theme=tokyonight)
+
+        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-BA&layout=compact&theme=tokyonight)
 
         ---
 
         ## 🏆 GitHub Trophies
 
-        <div align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Saikiran-BA&theme=onedark&row=1&column=6&no-frame=true" alt="GitHub Trophies" />
-        </div>div>
+        ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saikiran-BA&theme=onedark&row=1&column=6&no-frame=true)
 
         ---
 
         ## 📫 Let's Connect!
 
-        <div align="center">
-
-          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikiran-ba)
         [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.venkatasaikiran@dxc.com)
         [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikiran-BA)
 
-        </div>
-
         ---
 
-        <div align="center">
+        <p align="center">
           <img src="https://komarev.com/ghpvc/?username=Saikiran-BA&color=blue" alt="Profile Views" />
-        </div>div>
+        </p>p>
