@@ -78,4 +78,4 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
 
         ---
 
-<div align="center">\n  <img src="https://komarev.com/ghpvc/?username=Saikiran-BA&color=blue" alt="Profile Views" />\n</div>div>
+<img src="https://komarev.com/ghpvc/?username=Saikiran-BA&color=blue" alt="Profile Views" />
