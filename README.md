@@ -1,95 +1,92 @@
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> **Hello! I'm Movva Venkata SaiKiran**
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Movva Venkata SaiKiran
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Business+Analyst;5%2B+Years+Experience;Transforming+Requirements+into+Solutions)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Business+Analyst;Requirements+Expert;Agile+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
 
 ---
 
-## 👨‍💼 About Me
+## 🚀 About Me
 
-I'm a passionate **Business Analyst** with **5+ years** of experience transforming complex business requirements into clear, actionable specifications and solutions. I specialize in bridging the gap between business stakeholders and technical teams, ensuring seamless project delivery.
+I'm a passionate **Business Analyst** with **5+ years** of experience transforming complex business requirements into actionable solutions. I specialize in bridging the gap between business stakeholders and technical teams to deliver seamless, high-quality solutions.
 
-  🎯 **Expert in Requirements Gathering** - From concept to detailed specifications
-  📊 **Data Storytelling** - Visualizing insights with Power BI and advanced Excel
-  🤖 **Process Automation Enthusiast** - Streamlining workflows and improving efficiency
-  💡 **Insurance Domain Specialist** - Deep expertise in claims processing and workflows
-  🔄 **Agile & Scrum Advocate** - Driving iterative delivery and continuous improvement
+- 💼 **Expert in Requirements Gathering** - From concept to detailed specifications
+- - 📊 **Data-Driven Insights** - Leveraging SQL, Excel, and Power BI for analytics
+  - - 🔄 **Agile Advocate** - Scrum-certified with hands-on Jira and Confluence expertise
+    - - 🎯 **Domain Specialist** - Deep knowledge in Insurance Claims processing
+      - - 🤝 **Stakeholder Champion** - Building bridges between business and technical teams
        
         - ---
 
-        ## 🛠️ Tech Stack
+        ## 💻 Tech Stack
 
-        ### 📋 Business Analysis & Documentation
-        ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-        ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
-        ![Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=Microsoft&logoColor=white)
-        ![Agile Scrum](https://img.shields.io/badge/Agile%20Scrum-FF6B35?style=for-the-badge&logoColor=white)
+        ### 📋 Business Analysis & Requirements
+        ![Business Analysis](https://img.shields.io/badge/Business_Analysis-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white)
+        ![Requirements Gathering](https://img.shields.io/badge/Requirements_Gathering-4ECDC4?style=for-the-badge&logo=checklist&logoColor=white)
+        ![BRD/FRD](https://img.shields.io/badge/BRD%2FFRD-95E1D3?style=for-the-badge&logo=📄&logoColor=white)
+        ![User Stories](https://img.shields.io/badge/User_Stories-F7B731?style=for-the-badge&logo=bookmark&logoColor=white)
+        ![Process Mapping](https://img.shields.io/badge/Process_Mapping-6C5CE7?style=for-the-badge&logo=sitemap&logoColor=white)
 
-        ### 📊 Data & Analytics
-        ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
-        ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
-        ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+        ### 🛠️ Agile & Project Management
+        ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-003366?style=for-the-badge&logo=agile&logoColor=white)
+        ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+        ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+        ![Traceability Matrix](https://img.shields.io/badge/Traceability_Matrix-8E44AD?style=for-the-badge&logo=link&logoColor=white)
 
-        ### 🔧 Development & Automation Tools
-        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-        ![Selenium](https://img.shields.io/badge/Selenium-06C258?style=for-the-badge&logoColor=white)
-        ![Playwright](https://img.shields.io/badge/Playwright-06C258?style=for-the-badge&logoColor=white)
-        ![API Testing](https://img.shields.io/badge/API%20Analysis-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+        ### 💾 Database & Data Analysis
+        ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+        ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+        ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-        ### ☁️ Cloud Platforms
-        ![Azure](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+        ### 🎨 Design & Visualization
+        ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+        ![API Analysis](https://img.shields.io/badge/API_Analysis-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
-        ### 💼 Core Competencies
-        ![Requirements](https://img.shields.io/badge/Requirement%20Gathering-2E86AB?style=for-the-badge)
-        ![BRD/FRD](https://img.shields.io/badge/BRD%2FFRD-A23B72?style=for-the-badge)
-        ![UAT](https://img.shields.io/badge/UAT%20Testing-F18F01?style=for-the-badge)
-        ![User Stories](https://img.shields.io/badge/User%20Stories-C73E1D?style=for-the-badge)
-        ![Traceability](https://img.shields.io/badge/Traceability%20Matrix-6A4C93?style=for-the-badge)
-        ![Process Mapping](https://img.shields.io/badge/Process%20Mapping-1982C4?style=for-the-badge)
-        ![Stakeholders](https://img.shields.io/badge/Stakeholder%20Mgmt-8AC926?style=for-the-badge)
-        ![Insurance](https://img.shields.io/badge/Insurance%20Claims-E63946?style=for-the-badge)
+        ### 🧪 Testing & QA
+        ![UAT Testing](https://img.shields.io/badge/UAT_Testing-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white)
+        ![TestCafe Automation](https://img.shields.io/badge/TestCafe-15AAD7?style=for-the-badge&logo=testcafe&logoColor=white)
+
+        ### 🔧 Developer Tools
+        ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+        ![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+        ### 🏢 Domain Expertise
+        ![Insurance Claims](https://img.shields.io/badge/Insurance_Claims_Domain-E74C3C?style=for-the-badge&logo=shield&logoColor=white)
+        ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-27AE60?style=for-the-badge&logo=people&logoColor=white)
 
         ---
 
         ## 📊 GitHub Statistics
 
         <div align="center">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saikiran-BA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Saikiran-BA&theme=tokyonight" alt="GitHub Streak" />
+        </div>div>
 
-        [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikiran-BA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Saikiran-BA)
-
-        [![GitHub Streak](https://streak-stats.demolab.com?user=Saikiran-BA&theme=tokyonight&hide_border=true)](https://github.com/Saikiran-BA)
-
-        [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-BA&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Saikiran-BA)
-
-        </div>
+        <div align="center">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-BA&layout=compact&theme=tokyonight" alt="Top Languages" />
+        </div>div>
 
         ---
 
         ## 🏆 GitHub Trophies
 
         <div align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=Saikiran-BA&theme=onedark&row=1&column=6&no-frame=true" alt="GitHub Trophies" />
+        </div>div>
 
-        [![Trophy](https://github-profile-trophy.vercel.app/?username=Saikiran-BA&theme=darkhub&no-frame=true)](https://github.com/Saikiran-BA)
+        ---
+
+        ## 📫 Let's Connect!
+
+        <div align="center">
+
+          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+        [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.venkatasaikiran@dxc.com)
+        [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikiran-BA)
 
         </div>
 
         ---
 
-        ## 🌐 Let's Connect & Collaborate!
-
-        I'm always open to discussing:
-        - 📋 Business Analysis best practices and methodologies
-        - - 🔄 Process optimization and automation opportunities
-          - - 🎯 Agile frameworks and scaling agile practices
-            - - 💼 Digital transformation initiatives
-              - - 🚀 Cross-functional collaboration and team dynamics
-               
-                - Feel free to reach out and let's create something impactful together!
-               
-                - <div align="center">
-
-                **🚀 Let's Build Amazing Things Together!**
-
-                ![Profile Views](https://komarev.com/ghpvc/?username=Saikiran-BA&style=for-the-badge&color=00D9FF)
-
-                </div>
+        <div align="center">
+          <img src="https://komarev.com/ghpvc/?username=Saikiran-BA&color=blue" alt="Profile Views" />
+        </div>div>
