@@ -10,11 +10,6 @@
 
 I'm a results-driven **Business Analyst** with 5 years of experience in requirement gathering, process analysis, and stakeholder management. I specialize in bridging the gap between business needs and technical solutions, with a strong background in the **Insurance Claims Domain**. Passionate about creating impactful solutions through data-driven insights and automation.
 
-### 📱 Connect With Me
-- 🎬 **YouTube** - [My Channel](https://youtube.com/)
-- - 📝 **Medium** - [My Articles](https://medium.com/)
-  - - 📸 **Instagram** - [@myprofile](https://instagram.com/)
-   
     - ### ✨ Fun Facts About Me
     - - 🎯 I love transforming complex business requirements into clear, actionable specifications
       - - 📊 Data visualization enthusiast - turning numbers into stories
