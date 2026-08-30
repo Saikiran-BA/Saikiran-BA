@@ -32,7 +32,8 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
         ### 🔧 Development & Automation Tools
         ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
         ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-        ![TestCafe](https://img.shields.io/badge/TestCafe-06C258?style=for-the-badge&logoColor=white)
+        ![Selenium](https://img.shields.io/badge/Selenium-06C258?style=for-the-badge&logoColor=white)
+        ![Playwright](https://img.shields.io/badge/Playwright-06C258?style=for-the-badge&logoColor=white)
         ![API Testing](https://img.shields.io/badge/API%20Analysis-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
         ### ☁️ Cloud Platforms
