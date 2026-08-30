@@ -54,17 +54,7 @@ I'm a passionate **Business Analyst** with **5+ years** of experience transformi
 
         ---
 
-        ## 📊 GitHub Statistics
-
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikiran-BA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saikiran-BA&theme=tokyonight)
-
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-BA&layout=compact&theme=tokyonight)
-
-        ---
-
-
+ 
         ## 📫 Let's Connect!
 
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikiran-ba)
