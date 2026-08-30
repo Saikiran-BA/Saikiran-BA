@@ -8,11 +8,11 @@
 
 I'm a passionate **Business Analyst** with **5+ years** of experience transforming complex business requirements into clear, actionable specifications and solutions. I specialize in bridging the gap between business stakeholders and technical teams, ensuring seamless project delivery.
 
-- 🎯 **Expert in Requirements Gathering** - From concept to detailed specifications
-- - 📊 **Data Storytelling** - Visualizing insights with Power BI and advanced Excel
-  - - 🤖 **Process Automation Enthusiast** - Streamlining workflows and improving efficiency
-    - - 💡 **Insurance Domain Specialist** - Deep expertise in claims processing and workflows
-      - - 🔄 **Agile & Scrum Advocate** - Driving iterative delivery and continuous improvement
+  🎯 **Expert in Requirements Gathering** - From concept to detailed specifications
+  📊 **Data Storytelling** - Visualizing insights with Power BI and advanced Excel
+  🤖 **Process Automation Enthusiast** - Streamlining workflows and improving efficiency
+  💡 **Insurance Domain Specialist** - Deep expertise in claims processing and workflows
+  🔄 **Agile & Scrum Advocate** - Driving iterative delivery and continuous improvement
        
         - ---
 
